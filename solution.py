@@ -1,3 +1,5 @@
+##Mdzafar Sadak
+##ms12871@nyu.edu
 #import socket module
 
 from socket import *
