@@ -1,5 +1,5 @@
-##Mdzafar Sadak
-##ms12871@nyu.edu
+"""Mdzafar Sadak
+ms12871@nyu.edu"""
 #import socket module
 from socket import *
 import sys # In order to terminate the program
