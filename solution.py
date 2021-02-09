@@ -12,7 +12,7 @@ def webServer(port=13331):
 
 
 
-   #Prepare a sever socket
+   #Prepare for a server socket
 
    #Fill in start
 
